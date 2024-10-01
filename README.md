@@ -29,8 +29,11 @@ To run the project, select the device type and run the following command
 
 ## Screenshots (on BlueStacks Android Emulator)
 1. **Home Page (Light Mode)**
+
 ![App Screenshot](assets/images/ss1.PNG)
+
 2. **Home Page (Dark Mode)**
+
 ![App Screenshot](assets/images/ss6.PNG)
 
 ## 🔗 Links
