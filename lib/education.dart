@@ -73,14 +73,14 @@ class EducationPage extends StatelessWidget {
               _buildEducationItem(
                 "assets/images/iiuc.png", // Update with your university logo path
                 "International Islamic University Chittagong",
-                "January 2020 - December 2024",
+                "January 20## - December 20##",
               ),
               SizedBox(height: 20), // Space between education items
               // High School Section
               _buildEducationItem(
                 "assets/images/highschool.png", // Update with your high school logo path
                 "Bangladesh International School, English Section, Jeddah",
-                "2005 - 2019",
+                "20## - 20##",
               ),
             ],
           ),

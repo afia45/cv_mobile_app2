@@ -70,7 +70,7 @@ class PersonalInfoPage extends StatelessWidget {
             const SizedBox(height: 20),
             Padding(
               padding: const EdgeInsets.all(12.0),
-              child: const Text("Hi! I'm currently studying Bachelors in CSE at IIUC. I'm at my last year (outgoing), and this is my first flutter project!", textAlign: TextAlign.center,),
+              child: const Text("Hi! I'm currently studying Bachelors in CSE at IIUC. I'm at my final year (outgoing), and this is my first flutter project!", textAlign: TextAlign.center,),
             ),
             const SizedBox(height: 20),
             //onst Text("Social Links"),
@@ -90,14 +90,14 @@ class PersonalInfoPage extends StatelessWidget {
                   icon: FaIcon(FontAwesomeIcons.linkedin),
                   iconSize: 30,
                   onPressed: () {
-                    _launchURL("https://linkedin.com/in/afia-tabassum-805361213/");
+                    _launchURL("https://linkedin.com/");
                   },
                 ),
                 IconButton(
                   icon: FaIcon(FontAwesomeIcons.facebook),
                   iconSize: 30,
                   onPressed: () {
-                    _launchURL("https://facebook.com/afia.tabassum.90281/");
+                    _launchURL("https://facebook.com/");
                   },
                 ),
               ],

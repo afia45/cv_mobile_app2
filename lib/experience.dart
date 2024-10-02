@@ -57,7 +57,7 @@ class ExperiencePage extends StatelessWidget {
                 "assets/images/wie.png", // Update with your university logo path
                 "Graphics Designer",
                 "IEEE IIUC Student Branch WIE Affinity Group",
-                "Jul 2023 - Aug 2024 · 1 yr 2 mo",
+                "Jul 20## - Aug 20## · 1 yr 2 mo",
               ),
               SizedBox(height: 20), // Space between education items
          
@@ -65,7 +65,7 @@ class ExperiencePage extends StatelessWidget {
                 "assets/images/cs1.png", // Update with your high school logo path
                 "Membership Executive",
                 "IEEE Computer Society IIUC Student Branch Chapter",
-                "Aug 2023 - Aug 2024 · 1 yr 1 mos",
+                "Aug 20## - Aug 20## · 1 yr 1 mos",
               ),
               SizedBox(height: 20), // Space between title and icon
             
@@ -73,7 +73,7 @@ class ExperiencePage extends StatelessWidget {
                 "assets/images/iiuc.png", // Update with your university logo path
                 "Teacher Assistant",
                 "International Islamic University Chittagong · Part-time",
-                "Jan 2024 - Jun 2024 · 6 mos",
+                "Jan 20## - Jun 20## · 6 mos",
               ),
               SizedBox(height: 20), // Space between education items
          
@@ -81,7 +81,7 @@ class ExperiencePage extends StatelessWidget {
                 "assets/images/club.png", // Update with your high school logo path
                 "Executive",
                 "IIUC Computer Club",
-                "Nov 2021 - Feb 2023 · 1 yr 4 mos",
+                "Nov 20## - Feb 20## · 1 yr 4 mos",
               ),
             ],
           ),

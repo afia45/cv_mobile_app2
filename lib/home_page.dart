@@ -56,7 +56,7 @@ class HomePage extends StatelessWidget {
                 children: [
                   Icon(Icons.phone, color: Colors.purple, size:16), // Phone icon
                   SizedBox(width: 2), // Space between icon and text
-                  Text("+880-180-###-49723"), // Phone number
+                  Text("+880-180-###-####"), // Phone number
                 ],
               ),
         
